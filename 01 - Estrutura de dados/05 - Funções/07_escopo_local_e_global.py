@@ -8,3 +8,6 @@ def salario_bonus(bonus):
 
 
 salario_bonus(500)  # 2500
+
+Qual a forma correta de executar a função:
+def criar_carro(*, modelo, ano, placa, marca, motor, combustivel)
